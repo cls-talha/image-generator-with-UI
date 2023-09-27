@@ -26,8 +26,7 @@ ImageGenius Battle is a fun and interactive web application that allows users to
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/yourusername/your-repo.git
-  cd your-repo
+  git clone https://github.com/cls-talha/image-generator-with-UI/tree/main
 ```
 
 2. Install the required Python libraries:
