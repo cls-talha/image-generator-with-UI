@@ -9,6 +9,7 @@ ImageGenius Battle is a fun and interactive web application that allows users to
 
 **Project Structure:**
 
+```bash
 .
 ├── api_credentials.json # API credentials for image generation
 ├── images
@@ -19,7 +20,7 @@ ImageGenius Battle is a fun and interactive web application that allows users to
 │ └── stable_diffusion.cpython-37.pyc
 └── stable_diffusion.py # Image generation logic
 
-
+```
 **How to Run the Project:**
 
 1. Clone the repository to your local machine:
